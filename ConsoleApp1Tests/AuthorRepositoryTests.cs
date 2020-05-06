@@ -14,7 +14,9 @@ namespace ConsoleApp1.Tests
         [TestMethod()]
         public void FindByIdTest()
         {
-            Assert.Equals(1,1);
+            var a = 1;
+            var b = 1;
+            Assert.AreEqual(a, b);
         }
     }
 }
