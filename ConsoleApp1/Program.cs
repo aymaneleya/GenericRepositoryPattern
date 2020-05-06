@@ -16,8 +16,9 @@ namespace ConsoleApp1
             // Press Ctrl+F5 (or go to Debug > Start Without Debugging) to run your app.
             Console.WriteLine("Hello World!");
             IRepository<Author> _authorRepository = new AuthorRepository();
-            var result = _authorRepository.List.Where(x=> x.Id == 1).FirstOrDefault();
-
+            var result = _authorRepository.FindById(1);
+            Console.Write(result.authorName);
+            Console.ReadLine();
 
 
 

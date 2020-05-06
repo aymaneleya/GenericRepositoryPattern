@@ -8,10 +8,7 @@ namespace ConsoleApp1
 {
     public interface IRepository<T> where T : IEntity
     {
-        IEnumerable<T> List { get; }
-        void Add(T entity);
-        void Delete(T entity);
-        void Update(T entity);
+        IEnumerable<T> List { get; set; }
         T FindById(int Id);
     }
 }

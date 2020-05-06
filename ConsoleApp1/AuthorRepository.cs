@@ -16,26 +16,16 @@ namespace ConsoleApp1
             _authorContext = new Model1();
         }
 
-        public IEnumerable<Author> List => throw new NotImplementedException();
+        public IEnumerable<Author> List => new List<Author> {
+            {new Author{ Id=1, authorName="ayman"} },
+            {new Author{ Id=2, authorName="momo"} }
+        };
 
-        public void Add(Author entity)
+         public Author FindById(int Id)
         {
-            throw new NotImplementedException();
+            return List.Where(x => x.Id == Id).FirstOrDefault();
         }
 
-        public void Delete(Author entity)
-        {
-            throw new NotImplementedException();
-        }
 
-        public Author FindById(int Id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Update(Author entity)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
