@@ -10,11 +10,8 @@ C:\Users\AEZ\Documents\git_personal\GenericRepositoryPattern\ConsoleApp1Tests\bi
 C:\Users\AEZ\Documents\git_personal\GenericRepositoryPattern\ConsoleApp1Tests\bin\Debug\ConsoleApp1.exe.config
 C:\Users\AEZ\Documents\git_personal\GenericRepositoryPattern\ConsoleApp1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\AEZ\Documents\git_personal\GenericRepositoryPattern\ConsoleApp1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\Users\AEZ\Documents\git_personal\GenericRepositoryPattern\ConsoleApp1Tests\obj\Debug\ConsoleApp1Tests.csprojAssemblyReference.cache
-C:\Users\AEZ\Documents\git_personal\GenericRepositoryPattern\ConsoleApp1Tests\obj\Debug\ConsoleApp1Tests.csproj.CoreCompileInputs.cache
-C:\Users\AEZ\Documents\git_personal\GenericRepositoryPattern\ConsoleApp1Tests\obj\Debug\ConsoleApp1Tests.csproj.CopyComplete
+C:\Users\AEZ\Documents\git_personal\GenericRepositoryPattern\ConsoleApp1Tests\obj\Debug\GenericRepositoryPatternTests.csprojAssemblyReference.cache
+C:\Users\AEZ\Documents\git_personal\GenericRepositoryPattern\ConsoleApp1Tests\obj\Debug\GenericRepositoryPatternTests.csproj.CoreCompileInputs.cache
+C:\Users\AEZ\Documents\git_personal\GenericRepositoryPattern\ConsoleApp1Tests\obj\Debug\GenericRepositoryPatternTests.csproj.CopyComplete
 C:\Users\AEZ\Documents\git_personal\GenericRepositoryPattern\ConsoleApp1Tests\obj\Debug\ConsoleApp1Tests.dll
 C:\Users\AEZ\Documents\git_personal\GenericRepositoryPattern\ConsoleApp1Tests\obj\Debug\ConsoleApp1Tests.pdb
-C:\Users\AEZ\Documents\git_personal\GenericRepositoryPattern\ConsoleApp1Tests\bin\Debug\nunit.framework.dll
-C:\Users\AEZ\Documents\git_personal\GenericRepositoryPattern\ConsoleApp1Tests\bin\Debug\nunit.framework.pdb
-C:\Users\AEZ\Documents\git_personal\GenericRepositoryPattern\ConsoleApp1Tests\bin\Debug\nunit.framework.xml
